@@ -2,9 +2,9 @@ import os
 from config import Config
 
 class Translation(object):
-  START_TXT = """<b>Hai {}!!</b>
-<i>I'm Simple Auto file Forward Bot V2
-This Bot forward all files to One Public channel to Your Personal channel
+  START_TXT = """<b>ʜᴇʏ {}!!</b>
+<i>ɪ'ᴍ ꜱɪᴍᴘʟᴇ ᴀᴜᴛᴏ ꜰɪʟᴇ ꜰᴏʀᴡᴀʀᴅ ʙᴏᴛ ᴠ2
+ᴛʜɪꜱ ʙᴏᴛ ꜰᴏʀᴡᴀʀᴅ ᴀʟʟ ꜰɪʟᴇꜱ ᴛᴏ ᴏɴᴇ ᴘᴜʙʟɪᴄ ᴄʜᴀɴɴᴇʟ ᴛᴏ ʏᴏᴜʀ ᴘᴇʀꜱᴏɴᴀʟ ᴄʜᴀɴɴᴇʟ
 More details /help</i>"""
   CAPTION = "`{}`\n\n" + str(Config.CAPTION)
   HELP_TXT = """<b>Follow These Steps!!

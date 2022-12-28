@@ -42,7 +42,9 @@ SESSION - Pyrogram string Seccion - https://replit.com/@JijinR/PyroSessionString
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://youtu.be/B6jQGOJDVi0)
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Nandeshwarom555/Ajax-Extra-Features&branch=koyeb&name=newcinematoupdt)
+### Deploying on Railway:
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Nandeshwarom555/Frwdit-V2&branch=koyeb&name=MRKYT-FWRDIT-V2)
 
 ### Legendary Way:
 #### On Linux Or VPS:
